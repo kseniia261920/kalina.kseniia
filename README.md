@@ -1,1 +1,2 @@
-# kalina.kseniia
+# solar_project
+Модель Солнечной системы на языке Python
